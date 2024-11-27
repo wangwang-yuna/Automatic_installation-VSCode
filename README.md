@@ -1,2 +1,2 @@
-使用方式：wget -O https://github.com/wangwang-yuna/Automatic_installation-VSCode/run.sh | bash
-或  curl -fsSL https://gitub.com/wangwang-yuna/Automatic_installation-VSCode/run.sh | bash
+使用方式：
+curl -fsSL https://jsdelivr.pai233.top/gh/wangwang-yuna/Automatic_installation-VSCode@main/run.sh | bash
