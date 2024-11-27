@@ -1,0 +1,20 @@
+                                                                                
+I8,        8        ,8I  888888888888                            88             
+`8b       d8b       d8'       88                                 88             
+ "8,     ,8"8,     ,8"        88                                 88             
+  Y8     8P Y8     8P         88        ,adPPYba,    ,adPPYba,   88  ,adPPYba,  
+  `8b   d8' `8b   d8'         88       a8"     "8a  a8"     "8a  88  I8[    ""  
+   `8a a8'   `8a a8'          88       8b       d8  8b       d8  88   `"Y8ba,   
+    `8a8'     `8a8'           88       "8a,   ,a8"  "8a,   ,a8"  88  aa    ]8I  
+     `8'       `8'            88        `"YbbdP"'    `"YbbdP"'   88  `"YbbdP"'  
+                                                                                
+ 
+
+ 
+ 1.安装VS code
+
+ 2.卸载VS code
+
+ 3.安装基本开发环境（python3 JDK23 pip3）
+ 
+ 4.一键下载 Manyana Linux并运行

@@ -1,4 +1,4 @@
-cat ./.wtools.txt
+cat ./wtools.txt
 echo "选择你需要的功能"
 read choice
 if [ "$choice" -eq 1 ]; then
