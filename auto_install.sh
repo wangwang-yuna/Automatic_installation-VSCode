@@ -12,7 +12,7 @@ if [ "$answer" == "y" ]; then
     sudo apt-get install ./jdk-23_linux-x64_bin.deb
     echo "JDK 23开发环境安装完成"
     echo "开始安装Python3开发环境"
-    sudo apt-get install python3 python3-pip python3-dev pythin3-tk python3-venv
+    sudo apt-get install python3 python3-pip python3-dev python3-tk python3-venv  # 修正了拼写错误
     echo "Python3开发环境安装完成"
     echo "是否pip配置清华源镜像源？(y/n)"
     read answer
